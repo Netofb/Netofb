@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30266644/README.md)
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,45:6D28D9,100:312E81&text=Fábio%20Neto&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4C1D95,45:6D28D9,100:312E81&text=Fábio%20Barros%20Lima&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&animation=fadeIn" alt="Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+reliable+and+scalable+software;Engineering+full-stack+products+with+purpose;Exploring+AI%2C+automation+and+cloud-native+systems;Turning+complex+problems+into+maintainable+solutions" alt="Typing SVG" />
 
